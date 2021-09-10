@@ -1,0 +1,7 @@
+C:\Users\SAMSUNG 700z\Desktop\MissCanApp\MissCanApp\MissCanApp\bin\Debug\MissCanApp.exe
+C:\Users\SAMSUNG 700z\Desktop\MissCanApp\MissCanApp\MissCanApp\bin\Debug\MissCanApp.pdb
+C:\Users\SAMSUNG 700z\Desktop\MissCanApp\MissCanApp\MissCanApp\obj\Debug\MissCanApp.csprojResolveAssemblyReference.cache
+C:\Users\SAMSUNG 700z\Desktop\MissCanApp\MissCanApp\MissCanApp\obj\Debug\MissCanApp.Properties.Resources.resources
+C:\Users\SAMSUNG 700z\Desktop\MissCanApp\MissCanApp\MissCanApp\obj\Debug\MissCanApp.csproj.GenerateResource.Cache
+C:\Users\SAMSUNG 700z\Desktop\MissCanApp\MissCanApp\MissCanApp\obj\Debug\MissCanApp.exe
+C:\Users\SAMSUNG 700z\Desktop\MissCanApp\MissCanApp\MissCanApp\obj\Debug\MissCanApp.pdb
